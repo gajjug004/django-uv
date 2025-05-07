@@ -5,7 +5,7 @@
 ```
 uv init
 uv run
-uv add [pakage name]
+uv add [package name]
 uv sync
 uv sync --no-dev
 uv add --group prod guvicorn whitenoise
